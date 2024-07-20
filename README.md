@@ -1,4 +1,7 @@
-## Hi there 👋
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=senhorgomes&show_icons=true&hide_title=true&hide=contribs&include_all_commits=true" style="width: 545px; float: left"/>
+  <img src="https://github-readme-stats.vercel.app//api/top-langs/?username=senhorgomes&layout=compact"  style="width: 296px; float: right"/>
+</div>
 
 <!--
 **senhorgomes/senhorgomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
